@@ -1,0 +1,99 @@
+
+body{
+    text-align: center;
+    color: white;
+  background: url("img/S1.jpg")no-repeat;
+
+}
+
+#buttonCode {
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   font-size: 25px;
+width: 150px;
+height: 70px;
+border-radius: 10px;
+background-color: rgb(7, 8, 8);
+color: darkgray;
+
+
+}
+ #buttonDecode {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+ width: 150px;
+ height: 70px;
+ border-radius: 10px;
+ background-color: rgb(7, 8, 8);
+ color: darkgray;
+ 
+ 
+ }
+
+ #desplazamiento{
+    width: 60px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: rgb(152, 206, 206);
+    color: rgb(30, 142, 161);
+    
+      
+ }
+
+#userText{
+    width: 500px;
+    height: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: lighter;
+   font-size: 30px;
+
+}
+
+ 
+ .flex2 h1 {
+    
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   color: rgb(3, 34, 68);
+   font-weight: lighter;
+   font-size: 4em;
+
+  }
+
+  .flex2 h2 {
+    
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(136, 187, 221);
+    font-weight: lighter;
+    font-size: 3em;
+   }
+  
+   #textcode{
+    width: 500px;
+    height: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: lighter;
+   font-size: 30px;
+
+}
+
+#inst{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(21, 118, 156);  
+    font-weight: lighter;
+    font-size: 30px;
+}
+
+.listo {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: lighter;    
+    color: rgb(231, 236, 240); 
+    font-size: 35px;
+
+}
+
+.des{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(48, 196, 216);  
+    font-weight: lighter;
+    font-size: 30px;  
+}
+
